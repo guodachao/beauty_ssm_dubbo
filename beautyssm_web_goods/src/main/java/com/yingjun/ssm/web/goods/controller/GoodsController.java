@@ -64,7 +64,7 @@ public class GoodsController {
         LOG.info("invoke----------/" + goods.getGoodsId() + "/buy userPhone:" + userPhone);
         if (userPhone == null) {
             //return new BaseResult<Object>(false, UserExceptionEnum.INVALID_USER.getMsg());
-            userPhone=18768128888L;
+            userPhone=13140599988L;
         }
         //Valid 参数验证
         if (result.hasErrors()) {

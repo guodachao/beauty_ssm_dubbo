@@ -106,7 +106,7 @@ public class GoodsServiceImpl implements GoodsService {
                     // 邮件发送
                     //通过消息中心，发送邮件告知用户
                     MailParam mail = new MailParam();
-                    mail.setTo("yingjunv_c@126.com");
+                    mail.setTo("1020418220@qq.com");
                     mail.setSubject("订单确认");
                     mail.setContent("你通过手机号：" + userPhone + "下单成功！");
                     try {
