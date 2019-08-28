@@ -24,6 +24,7 @@
 - 分布式锁（见beautyssm_distributed_tools）
 - 消息中间件 ActiveMQ 的引入
 - [ActiveMQ 集群高可用方案](http://wosyingjun.iteye.com/blog/2314683)
+- Shiro（权限管理）
 
 
 ###架构图：
